@@ -1,0 +1,10 @@
+{
+    "unique_identifier": "grappa_party",
+    "name": "Grappa Party",
+    "author": "Akeped",
+    "version": "1",
+    "interpreter": "",
+    "metadata_file": "",
+    "binary_path": "grappa_party.elf",
+    "source": 1
+}
